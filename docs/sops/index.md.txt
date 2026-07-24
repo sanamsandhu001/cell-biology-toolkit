@@ -1,0 +1,23 @@
+---
+title: Standard Operating Procedures
+---
+
+# Standard Operating Procedures
+
+Welcome to the **Standard Operating Procedures (SOPs)** section of the Cell Biology Toolkit.
+
+This collection provides standardized, step-by-step laboratory protocols designed to support reliable and reproducible mammalian cell culture.
+
+## Topics Included
+
+- Cell thawing
+- Cell passaging
+- Cryopreservation
+- Cell counting and viability
+- Media preparation
+- Cell seeding
+- Aseptic technique
+- Biosafety cabinet operation
+- Equipment operation
+- Waste disposal
+- And many more...
