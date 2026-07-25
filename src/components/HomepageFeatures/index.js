@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const categories = [
@@ -41,14 +42,18 @@ const categories = [
     link: '/reference-library',
   },
 ];
+
 function CategoryCard({ title, image, description, link }) {
   return (
     <Link to={link} className={styles.card}>
-      <img src={image} alt={title} className={styles.cardImage} />
+      <img
+        src={useBaseUrl(image)}
+        alt={title}
+        className={styles.cardImage}
+      />
 
       <div className={styles.cardContent}>
         <Heading as="h3">{title}</Heading>
-
         <p>{description}</p>
       </div>
     </Link>
@@ -70,7 +75,10 @@ export default function HomepageFeatures() {
 
         <div className={styles.grid}>
           {categories.map((category) => (
-            <CategoryCard key={category.title} {...category} />
+            <CategoryCard
+              key={category.title}
+              {...category}
+            />
           ))}
         </div>
 
