@@ -78,7 +78,7 @@ export default function HumanCellLines() {
       <p>Quantifies intracellular reactive oxygen species using a fluorogenic probe to assess oxidative stress.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/Senescence-Associated-beta-Galactosidase-SA-beta-Gal-Assay">
+    <Link className={styles.card} to="/docs/cellular-assays/senescence-associated-galactosidase-sa-gal-assay">
       <Heading as="h3">Senescence-Associated β-Galactosidase (SA-β-Gal) Assay</Heading>
       <p>Detects senescent cells through β-galactosidase activity as a hallmark of cellular aging and stress.</p>
     </Link>
