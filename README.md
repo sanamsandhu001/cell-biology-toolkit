@@ -38,7 +38,7 @@ The toolkit currently includes:
 - 🧮 Laboratory Calculators
 - 🌱 Stem Cell Resources
 
-Additional content is continuously being developed and expanded.
+Additional content is continuously being developed.
 
 ---
 
