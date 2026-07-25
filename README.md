@@ -1,43 +1,125 @@
-# Website
+# 🧬 Cell Biology Toolkit
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> An open-access scientific resource providing standardized protocols, cell line profiles, laboratory assays, reagents, calculators, and reference materials for modern cell biology.
 
-## Installation
+[![Website](https://img.shields.io/badge/Website-Live-success)](https://sanamsandhu001.github.io/cell-biology-toolkit/)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-```bash
-npm install
-```
+---
 
-**Note**: feel free to use the package manager of your choice.
+## About
 
-## Local Development
+The **Cell Biology Toolkit** is an educational and reference platform designed to support students, researchers, educators, and laboratory professionals by providing reliable, well-organized resources for mammalian cell culture and experimental cell biology.
 
-```bash
-npm run start
-```
+The project brings together standardized laboratory documentation, practical protocols, and scientifically curated reference material into a freely accessible online resource.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+Whether you are learning the fundamentals of cell culture or planning experiments in the laboratory, the toolkit aims to serve as a practical companion built around reproducibility, clarity, and scientific accuracy.
 
-## Build
+---
 
-```bash
-npm run build
-```
+## Website
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+🌐 **Live Website**
 
-## Deployment
+https://sanamsandhu001.github.io/cell-biology-toolkit/
 
-Using SSH:
+---
 
-```bash
-USE_SSH=true npm run deploy
-```
+# Contents
 
-Not using SSH:
+The toolkit currently includes:
 
-```bash
-GIT_USER=<Your GitHub username> npm run deploy
-```
+- 📋 Standard Operating Procedures (SOPs)
+- 🧫 Mammalian Cell Line Profiles
+- 🧪 Cell Biology Assays
+- 🧬 Reagents, Media & Growth Factors
+- 🔬 Laboratory Equipment Guides
+- 📚 Scientific Reference Library
+- 🧮 Laboratory Calculators
+- 🌱 Stem Cell Resources
 
-If you are using GitHub Pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Additional content is continuously being developed and expanded.
+
+---
+
+# Project Goals
+
+The Cell Biology Toolkit aims to:
+
+- Improve accessibility of laboratory education
+- Promote standardized experimental workflows
+- Support reproducible research practices
+- Provide scientifically referenced educational resources
+- Serve as a continuously growing open-access knowledge base
+
+---
+
+# Who is this for?
+
+This project is intended for:
+
+- Undergraduate students
+- Graduate students
+- PhD researchers
+- Laboratory technicians
+- Educators
+- Biomedical researchers
+
+---
+
+# Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+- Correcting scientific inaccuracies
+- Improving existing documentation
+- Reporting errors or broken links
+- Suggesting new protocols
+- Contributing additional cell line profiles
+- Adding new assays or laboratory resources
+
+Please ensure that all scientific content is supported by reliable references and follows the existing writing style of the project.
+
+---
+
+# Citation
+
+If you use this toolkit in teaching, research, presentations, or educational material, please cite:
+
+> Kaur S. **Cell Biology Toolkit**. Available at: https://sanamsandhu001.github.io/cell-biology-toolkit/
+
+---
+
+# Roadmap
+
+Future additions include:
+
+- Cell signaling pathways
+- Cell death and survival mechanisms
+- Molecular biology techniques
+- Immunology resources
+- Advanced laboratory calculators
+- Interactive scientific illustrations
+- Downloadable protocol PDFs
+
+---
+
+# License
+
+This project is released under the **MIT License**.
+
+---
+
+# Author
+
+**Sanampreet Kaur**
+
+Researcher • Educator • Biomedical Scientist
+
+GitHub: https://github.com/Sanamsandhu001
+
+---
+
+⭐ If you find this project useful, consider starring the repository.
