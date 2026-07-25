@@ -61,42 +61,42 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/mtt-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/MTT-Assay">
       <Heading as="h3">MTT Assay</Heading>
       <p>Colorimetric assay that measures cellular metabolic activity as an indicator of cell viability, proliferation, and cytotoxicity.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/mts-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/MTS-Assay">
       <Heading as="h3">MTS Assay</Heading>
       <p>Tetrazolium-based assay that generates a soluble formazan product for convenient measurement of viable cells.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/wst-1-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/WST-1-Assay">
       <Heading as="h3">WST-1 Assay</Heading>
       <p>Water-soluble tetrazolium assay for rapid assessment of cell viability and proliferation through metabolic activity.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/xtt-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/XTT-Assay">
       <Heading as="h3">XTT Assay</Heading>
       <p>Colorimetric viability assay that quantifies metabolically active cells by measuring formazan dye production.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/resazurin-alamar-blue-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Resazurin-Alamar-Blue-Assay">
       <Heading as="h3">Resazurin (Alamar Blue) Assay</Heading>
       <p>Fluorometric and colorimetric assay for evaluating cell viability through the reduction of resazurin to resorufin.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/celltiter-glo-luminescent-cell-viability-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/CellTiter-Glo-Luminescent-Cell-Viability-Assay">
       <Heading as="h3">CellTiter-Glo® Assay</Heading>
       <p>Luminescent ATP-based assay that provides a rapid and sensitive measure of viable cell number.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/trypan-blue-exclusion-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Trypan-Blue-Exclusion-Assay">
       <Heading as="h3">Trypan Blue Exclusion Assay</Heading>
       <p>Dye exclusion method for distinguishing viable and non-viable cells during routine cell counting.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/ldh-release-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/LDH-Release-Assay">
       <Heading as="h3">LDH Release Assay</Heading>
       <p>Measures lactate dehydrogenase released from damaged cells to evaluate membrane integrity and cytotoxicity.</p>
     </Link>

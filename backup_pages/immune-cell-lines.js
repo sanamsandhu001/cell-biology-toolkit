@@ -61,32 +61,32 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cell-lines/thp-1-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/THP-1-Cell-Line">
       <Heading as="h3">THP-1</Heading>
       <p>Human monocytic leukemia cell line widely used for macrophage differentiation and innate immunity studies.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/jurkat-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/Jurkat-Cell-Line">
       <Heading as="h3">Jurkat</Heading>
       <p>Human T lymphocyte cell line used to investigate T-cell signaling, activation and immune responses.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/k562-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/K562-Cell-Line">
       <Heading as="h3">K562</Heading>
       <p>Human chronic myelogenous leukemia cell line commonly used in hematology and gene expression research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/hl-60-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/HL-60-Cell-Line">
       <Heading as="h3">HL-60</Heading>
       <p>Human promyelocytic leukemia cell line capable of differentiation into granulocyte- and macrophage-like cells.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/u937-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/U937-Cell-Line">
       <Heading as="h3">U937</Heading>
       <p>Human histiocytic lymphoma cell line widely used to study monocyte differentiation and macrophage biology.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/raji-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/Raji-Cell-Line">
       <Heading as="h3">Raji</Heading>
       <p>Human Burkitt lymphoma B-cell line extensively used in immunology, virology and lymphoma research.</p>
     </Link>

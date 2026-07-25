@@ -62,27 +62,27 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/brdu-incorporation-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/BrdU-Incorporation-Assay">
       <Heading as="h3">BrdU Incorporation Assay</Heading>
       <p>Measures DNA synthesis by detecting bromodeoxyuridine incorporation into newly synthesized DNA during cell proliferation.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/edu-click-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/EdU-Click-Assay">
       <Heading as="h3">EdU Click Assay</Heading>
       <p>Click chemistry-based assay for rapid and sensitive detection of DNA synthesis in proliferating cells.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/ki-67-staining">
+    <Link className={styles.card} to="/docs/cellular-assays/Ki-67-Staining">
       <Heading as="h3">Ki-67 Staining</Heading>
       <p>Immunostaining method for identifying actively proliferating cells through expression of the Ki-67 nuclear protein.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/pcna-staining">
+    <Link className={styles.card} to="/docs/cellular-assays/PCNA-Staining">
       <Heading as="h3">PCNA Staining</Heading>
       <p>Detects proliferating cell nuclear antigen (PCNA) to assess DNA replication and cell cycle progression.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/colony-formation-clonogenic-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Colony-Formation-Clonogenic-Assay">
       <Heading as="h3">Colony Formation (Clonogenic) Assay</Heading>
       <p>Evaluates the long-term proliferative capacity and colony-forming ability of individual cells.</p>
     </Link>

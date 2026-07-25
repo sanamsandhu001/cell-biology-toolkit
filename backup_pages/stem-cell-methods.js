@@ -60,47 +60,47 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/ipsc-reprogramming">
+<Link className={styles.card} to="/docs/stem-cell-methods/iPSC-Reprogramming">
   <Heading as="h3">iPSC Reprogramming</Heading>
   <p>Generates induced pluripotent stem cells from somatic cells through the introduction of defined reprogramming factors.</p>
 </Link> 
 
-<Link className={styles.card} to="/docs/stem-cell-methods/ipsc-characterization">
+<Link className={styles.card} to="/docs/stem-cell-methods/iPSC-Characterization">
   <Heading as="h3">iPSC Characterization</Heading>
   <p>Evaluates pluripotency, genomic stability, morphology, and differentiation potential to verify induced pluripotent stem cell quality.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/pluripotency-assays">
+<Link className={styles.card} to="/docs/stem-cell-methods/Pluripotency-Assays">
   <Heading as="h3">Pluripotency Assays</Heading>
   <p>Assesses the ability of pluripotent stem cells to differentiate into derivatives of all three embryonic germ layers.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/brain-organoids">
+<Link className={styles.card} to="/docs/stem-cell-methods/Brain-Organoids">
   <Heading as="h3">Brain Organoids</Heading>
   <p>Generates three-dimensional neural tissue models that recapitulate key aspects of human brain development and disease.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/genome-editing-in-ipscs">
+<Link className={styles.card} to="/docs/stem-cell-methods/Genome-Editing-in-iPSCs">
   <Heading as="h3">Genome Editing in iPSCs</Heading>
   <p>Introduces targeted genetic modifications into induced pluripotent stem cells for disease modeling and functional studies.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/cryopreservation-and-biobanking-of-stem-cells">
+<Link className={styles.card} to="/docs/stem-cell-methods/Cryopreservation-and-Biobanking-of-Stem-Cells">
   <Heading as="h3">Cryopreservation & Biobanking</Heading>
   <p>Describes standardized procedures for long-term storage, recovery, and quality preservation of stem cell cultures.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/isogenic-controls-in-disease-modeling">
+<Link className={styles.card} to="/docs/stem-cell-methods/Isogenic-Controls-in-Disease-Modeling">
   <Heading as="h3">Isogenic Controls</Heading>
   <p>Establishes genetically matched control cell lines to minimize background variation in stem cell disease models.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/mycoplasma-testing-in-cell-culture">
+<Link className={styles.card} to="/docs/stem-cell-methods/Mycoplasma-Testing-in-Cell-Culture">
   <Heading as="h3">Mycoplasma Testing</Heading>
   <p>Detects mycoplasma contamination to ensure the integrity, reproducibility, and quality of stem cell cultures.</p>
 </Link>
 
-<Link className={styles.card} to="/docs/stem-cell-methods/neurospheres">
+<Link className={styles.card} to="/docs/stem-cell-methods/Neurospheres">
   <Heading as="h3">Neurospheres</Heading>
   <p>Establishes three-dimensional neural stem cell cultures for studies of neural development, differentiation, and regeneration.</p>
 </Link>

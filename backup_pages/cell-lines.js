@@ -95,32 +95,32 @@ export default function CellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cell-lines/hek293-cell-line-profile">
+    <Link className={styles.card} to="/docs/cell-lines/HEK293-Cell-Line-Profile">
       <Heading as="h3">HEK293</Heading>
       <p>Human embryonic kidney cell line.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/hela-cells">
+    <Link className={styles.card} to="/docs/cell-lines/HeLa-Cells">
       <Heading as="h3">HeLa</Heading>
       <p>Human cervical carcinoma cell line.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/a549-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/A549-Cell-Line">
       <Heading as="h3">A549</Heading>
       <p>Human lung adenocarcinoma cell line.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/sh-sy5y-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/SH-SY5Y-Cell-Line">
       <Heading as="h3">SH-SY5Y</Heading>
       <p>Human neuroblastoma cell line.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/thp-1-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/THP-1-Cell-Line">
       <Heading as="h3">THP-1</Heading>
       <p>Human monocytic leukemia cell line.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/cho-cell-lines">
+    <Link className={styles.card} to="/docs/cell-lines/CHO-Cell-Lines">
       <Heading as="h3">CHO</Heading>
       <p>Chinese hamster ovary cell line.</p>
     </Link>

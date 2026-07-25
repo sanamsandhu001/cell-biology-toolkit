@@ -42,7 +42,6 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'editUrl:
   'https://github.com/sanamsandhu001/cell-biology-toolkit/edit/main/docs/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',

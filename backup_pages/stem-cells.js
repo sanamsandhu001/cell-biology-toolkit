@@ -62,52 +62,52 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/stem-cells/human-embryonic-stem-cells-hescs">
+    <Link className={styles.card} to="/docs/stem-cells/Human-Embryonic-Stem-Cells-hESCs">
       <Heading as="h3">Human Embryonic Stem Cells (hESCs)</Heading>
       <p>Pluripotent stem cells capable of differentiating into all cell types of the human body.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/induced-pluripotent-stem-cells-ipscs">
+    <Link className={styles.card} to="/docs/stem-cells/Induced-Pluripotent-Stem-Cells-iPSCs">
       <Heading as="h3">Induced Pluripotent Stem Cells (iPSCs)</Heading>
       <p>Reprogrammed somatic cells widely used for disease modeling, regenerative medicine and personalized medicine.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/mouse-embryonic-stem-cells-mescs">
+    <Link className={styles.card} to="/docs/stem-cells/Mouse-Embryonic-Stem-Cells-mESCs">
       <Heading as="h3">Mouse Embryonic Stem Cells (mESCs)</Heading>
       <p>Pluripotent mouse stem cells extensively used in developmental biology and genetic engineering studies.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/neural-stem-cells-nscs">
+    <Link className={styles.card} to="/docs/stem-cells/Neural-Stem-Cells-NSCs">
       <Heading as="h3">Neural Stem Cells (NSCs)</Heading>
       <p>Multipotent neural stem cells capable of generating neurons, astrocytes and oligodendrocytes.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/neural-progenitor-cells-npcs">
+    <Link className={styles.card} to="/docs/stem-cells/Neural-Progenitor-Cells-NPCs">
       <Heading as="h3">Neural Progenitor Cells (NPCs)</Heading>
       <p>Committed neural progenitors widely used to investigate nervous system development and neurodegenerative disorders.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/ipsc-derived-neurons">
+    <Link className={styles.card} to="/docs/stem-cells/iPSC-Derived-Neurons">
       <Heading as="h3">iPSC-Derived Neurons</Heading>
       <p>Human neurons generated from induced pluripotent stem cells for neurological disease modeling and drug screening.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/ipsc-derived-astrocytes">
+    <Link className={styles.card} to="/docs/stem-cells/iPSC-Derived-Astrocytes">
       <Heading as="h3">iPSC-Derived Astrocytes</Heading>
       <p>Human astrocytes differentiated from iPSCs for studies of neuron-glia interactions and neuroinflammation.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/ipsc-derived-microglia">
+    <Link className={styles.card} to="/docs/stem-cells/iPSC-Derived-Microglia">
       <Heading as="h3">iPSC-Derived Microglia</Heading>
       <p>Human microglia generated from iPSCs for investigating innate immunity and neurodegenerative diseases.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/ipsc-derived-oligodendrocytes">
+    <Link className={styles.card} to="/docs/stem-cells/iPSC-Derived-Oligodendrocytes">
       <Heading as="h3">iPSC-Derived Oligodendrocytes</Heading>
       <p>Human oligodendrocytes differentiated from iPSCs for studies of myelination and demyelinating disorders.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cells/ipsc-derived-myocytes">
+    <Link className={styles.card} to="/docs/stem-cells/iPSC-Derived-Myocytes">
       <Heading as="h3">iPSC-Derived Myocytes</Heading>
       <p>Human skeletal muscle cells differentiated from iPSCs for muscle development and neuromuscular disease research.</p>
     </Link>

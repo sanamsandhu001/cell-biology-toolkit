@@ -63,22 +63,22 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/immunocytochemistry-icc">
+    <Link className={styles.card} to="/docs/cellular-assays/Immunocytochemistry-ICC">
       <Heading as="h3">Immunocytochemistry (ICC)</Heading>
       <p>Detects and visualizes intracellular proteins using antigen-specific antibodies in fixed cultured cells.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/immunofluorescence-if">
+    <Link className={styles.card} to="/docs/cellular-assays/Immunofluorescence-IF">
       <Heading as="h3">Immunofluorescence (IF)</Heading>
       <p>Uses fluorescently labeled antibodies to localize and visualize target proteins with high specificity.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/western-blot">
+    <Link className={styles.card} to="/docs/cellular-assays/Western-Blot">
       <Heading as="h3">Western Blot</Heading>
       <p>Identifies and quantifies specific proteins following electrophoretic separation and antibody-based detection.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/quantitative-real-time-pcr-qpcr">
+    <Link className={styles.card} to="/docs/cellular-assays/Quantitative-Real-Time-PCR-qPCR">
       <Heading as="h3">Quantitative Real-Time PCR (qPCR)</Heading>
       <p>Measures gene expression by quantifying amplified nucleic acids in real time using fluorescent detection.</p>
     </Link>

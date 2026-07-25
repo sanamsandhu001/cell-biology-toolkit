@@ -61,7 +61,7 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/media/dmem-f12">
+    <Link className={styles.card} to="/docs/media/DMEM-F12">
       <Heading as="h3">DMEM/F-12</Heading>
       <p>
         A hybrid medium that combines the nutritional richness of DMEM with the diverse formulation of Ham's F-12.

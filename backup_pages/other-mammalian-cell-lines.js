@@ -61,12 +61,12 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cell-lines/cho-cell-lines">
+    <Link className={styles.card} to="/docs/cell-lines/CHO-Cell-Lines">
       <Heading as="h3">CHO</Heading>
       <p>Chinese hamster ovary cell lines extensively used for recombinant protein production, biopharmaceutical manufacturing and biotechnology research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/mo3-13-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/MO3-13-Cell-Line">
       <Heading as="h3">MO3.13</Heading>
       <p>Human-rodent hybrid oligodendrocyte cell line widely used to investigate oligodendrocyte differentiation, myelination and demyelinating disorders.</p>
     </Link>

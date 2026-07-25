@@ -64,17 +64,17 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/annexin-v-or-propidium-iodide-pi-apoptosis-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Annexin-V-or-Propidium-Iodide-PI-Apoptosis-Assay">
       <Heading as="h3">Annexin V or Propidium Iodide (PI) Apoptosis Assay</Heading>
       <p>Differentiates viable, early apoptotic, late apoptotic, and necrotic cells based on phosphatidylserine exposure and membrane integrity.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/caspase-3or7-activity-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Caspase-3or7-Activity-Assay">
       <Heading as="h3">Caspase-3/7 Activity Assay</Heading>
       <p>Measures activation of executioner caspases as a quantitative indicator of apoptotic cell death.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/propidium-iodide-pi-cell-cycle-analysis">
+    <Link className={styles.card} to="/docs/cellular-assays/Propidium-Iodide-PI-Cell-Cycle-Analysis">
       <Heading as="h3">Propidium Iodide (PI) Cell Cycle Analysis</Heading>
       <p>Quantifies cellular DNA content by flow cytometry to determine cell cycle distribution and identify cell cycle arrest.</p>
     </Link>

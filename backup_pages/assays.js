@@ -90,32 +90,32 @@ description="Assays and laboratory methods for the Cell Biology Toolkit"
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/mtt-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/MTT-Assay">
       <Heading as="h3">MTT Assay</Heading>
       <p>Colorimetric assay for measuring cell metabolic activity as an indicator of viability and proliferation.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/celltiter-glo-luminescent-cell-viability-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/CellTiter-Glo-Luminescent-Cell-Viability-Assay">
       <Heading as="h3">CellTiter-Glo® Assay</Heading>
       <p>ATP-based luminescent assay for rapid and highly sensitive measurement of viable cells.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/trypan-blue-exclusion-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Trypan-Blue-Exclusion-Assay">
       <Heading as="h3">Trypan Blue Exclusion</Heading>
       <p>Simple dye exclusion method for determining cell viability and performing routine cell counts.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/western-blot">
+    <Link className={styles.card} to="/docs/cellular-assays/Western-Blot">
       <Heading as="h3">Western Blot</Heading>
       <p>Gold-standard method for detecting and quantifying specific proteins in biological samples.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cell-methods/brain-organoids">
+    <Link className={styles.card} to="/docs/stem-cell-methods/Brain-Organoids">
       <Heading as="h3">Brain Organoids</Heading>
       <p>Three-dimensional stem cell-derived models that recapitulate key features of human brain development and disease.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/stem-cell-methods/ipsc-reprogramming">
+    <Link className={styles.card} to="/docs/stem-cell-methods/iPSC-Reprogramming">
       <Heading as="h3">iPSC Reprogramming</Heading>
       <p>Generation of induced pluripotent stem cells from somatic cells for disease modeling and regenerative medicine.</p>
     </Link>

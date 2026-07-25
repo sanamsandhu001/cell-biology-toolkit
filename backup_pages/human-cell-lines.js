@@ -62,72 +62,72 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cell-lines/hek293-cell-line-profile">
+    <Link className={styles.card} to="/docs/cell-lines/HEK293-Cell-Line-Profile">
       <Heading as="h3">HEK293</Heading>
       <p>Human embryonic kidney cells widely used for transfection and recombinant protein expression.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/hela-cells">
+    <Link className={styles.card} to="/docs/cell-lines/HeLa-Cells">
       <Heading as="h3">HeLa</Heading>
       <p>Human cervical carcinoma cell line extensively used in cancer and molecular biology research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/a549-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/A549-Cell-Line">
       <Heading as="h3">A549</Heading>
       <p>Human lung adenocarcinoma epithelial cell line for respiratory biology and oncology studies.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/hct116-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/HCT116-Cell-Line">
       <Heading as="h3">HCT116</Heading>
       <p>Human colorectal carcinoma cell line used in cancer genetics and drug discovery.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/sh-sy5y-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/SH-SY5Y-Cell-Line">
       <Heading as="h3">SH-SY5Y</Heading>
       <p>Human neuroblastoma cell line widely used in neuroscience and neurodegeneration research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/mcf-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/MCF-Cell-Line">
       <Heading as="h3">MCF-7</Heading>
       <p>Human breast adenocarcinoma cell line commonly used in hormone receptor and breast cancer research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/mda-mb-231-cell-line-profile">
+    <Link className={styles.card} to="/docs/cell-lines/MDA-MB-231-Cell-Line-Profile">
       <Heading as="h3">MDA-MB-231</Heading>
       <p>Human triple-negative breast cancer cell line for invasion, migration and metastasis studies.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/thp-1-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/THP-1-Cell-Line">
       <Heading as="h3">THP-1</Heading>
       <p>Human monocytic leukemia cell line used for immunology and macrophage differentiation studies.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/jurkat-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/Jurkat-Cell-Line">
       <Heading as="h3">Jurkat</Heading>
       <p>Human T lymphocyte cell line widely used to investigate T-cell signaling and immune responses.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/k562-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/K562-Cell-Line">
       <Heading as="h3">K562</Heading>
       <p>Human chronic myelogenous leukemia cell line used in hematology and gene expression research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/hl-60-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/HL-60-Cell-Line">
       <Heading as="h3">HL-60</Heading>
       <p>Human promyelocytic leukemia cell line capable of differentiation into multiple blood cell lineages.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/u937-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/U937-Cell-Line">
       <Heading as="h3">U937</Heading>
       <p>Human histiocytic lymphoma cell line frequently used to study monocyte and macrophage biology.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/raji-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/Raji-Cell-Line">
       <Heading as="h3">Raji</Heading>
       <p>Human Burkitt lymphoma B-cell line widely used in immunology, virology and cancer research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/u87-mg-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/U87-MG-Cell-Line">
       <Heading as="h3">U87-MG</Heading>
       <p>Human glioblastoma cell line commonly used in neuro-oncology and brain tumor research.</p>
     </Link>

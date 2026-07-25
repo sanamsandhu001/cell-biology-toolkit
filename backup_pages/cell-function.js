@@ -63,17 +63,17 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cellular-assays/scratch-wound-healing-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Scratch-Wound-Healing-Assay">
       <Heading as="h3">Scratch (Wound Healing) Assay</Heading>
       <p>Measures two-dimensional cell migration by monitoring closure of a defined scratch in a confluent cell monolayer.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/transwell-migration-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/Transwell-Migration-Assay">
       <Heading as="h3">Transwell Migration Assay</Heading>
       <p>Evaluates directed cell migration through a porous membrane in response to chemotactic stimuli.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cellular-assays/dcfda-reactive-oxygen-species-ros-assay">
+    <Link className={styles.card} to="/docs/cellular-assays/DCFDA-Reactive-Oxygen-Species-ROS-Assay">
       <Heading as="h3">DCFDA Reactive Oxygen Species (ROS) Assay</Heading>
       <p>Quantifies intracellular reactive oxygen species using a fluorogenic probe to assess oxidative stress.</p>
     </Link>

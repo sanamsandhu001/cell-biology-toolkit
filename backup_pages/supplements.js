@@ -62,14 +62,14 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/supplements/albumax">
+    <Link className={styles.card} to="/docs/supplements/Albumax">
       <Heading as="h3">Albumax®</Heading>
       <p>
         A lipid-rich bovine serum albumin supplement used as a chemically defined serum replacement for mammalian cell culture.
       </p>
     </Link>
 
-    <Link className={styles.card} to="/docs/supplements/b-27-supplement">
+    <Link className={styles.card} to="/docs/supplements/B-27-Supplement">
       <Heading as="h3">B-27™ Supplement</Heading>
       <p>
         A serum-free supplement optimized for neuronal, neural stem cell, and organoid cultures.

@@ -60,32 +60,32 @@ export default function HumanCellLines() {
 
   <div className={styles.grid}>
 
-    <Link className={styles.card} to="/docs/cell-lines/bv2-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/BV2-Cell-Line">
       <Heading as="h3">BV2</Heading>
       <p>Mouse microglial cell line widely used to investigate neuroinflammation, innate immunity and microglial activation.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/c8-d1a-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/C8-D1A-Cell-Line">
       <Heading as="h3">C8-D1A</Heading>
       <p>Mouse astrocyte cell line commonly used to study astrocyte biology and neuron-glia interactions.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/neuro2a-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/Neuro2a-Cell-Line">
       <Heading as="h3">Neuro2a</Heading>
       <p>Mouse neuroblastoma cell line widely used for neuronal differentiation and neurobiology research.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/pc12-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/PC12-Cell-Line">
       <Heading as="h3">PC12</Heading>
       <p>Rat pheochromocytoma cell line that differentiates into neuron-like cells following NGF stimulation.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/raw264-7-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/RAW264-7-Cell-Line">
       <Heading as="h3">RAW264.7</Heading>
       <p>Mouse macrophage cell line extensively used for studies of inflammation, phagocytosis and innate immunity.</p>
     </Link>
 
-    <Link className={styles.card} to="/docs/cell-lines/mo3-13-cell-line">
+    <Link className={styles.card} to="/docs/cell-lines/MO3-13-Cell-Line">
       <Heading as="h3">MO3.13</Heading>
       <p>Hybrid human-rodent oligodendrocyte cell line widely used to investigate myelination and demyelinating diseases.</p>
     </Link>
