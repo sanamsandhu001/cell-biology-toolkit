@@ -21,7 +21,7 @@ Whether you are learning the fundamentals of cell culture or planning experiment
 
 🌐 **Live Website**
 
-https://sanamsandhu001.github.io/cell-biology-toolkit/
+https://cellbiokit.com/
 
 ---
 
