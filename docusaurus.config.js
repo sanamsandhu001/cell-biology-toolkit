@@ -12,8 +12,8 @@ const config = {
   },
 
   // GitHub Pages configuration
-  url: 'https://sanamsandhu001.github.io',
-  baseUrl: '/cell-biology-toolkit/',
+  url: 'https://cellbiokit.com',
+baseUrl: '/',
 
   organizationName: 'sanamsandhu001',
   projectName: 'cell-biology-toolkit',
