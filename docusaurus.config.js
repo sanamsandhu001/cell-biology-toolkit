@@ -63,6 +63,10 @@ baseUrl: '/',
       colorMode: {
         respectPrefersColorScheme: true,
       },
+      gtag: {
+  trackingID: 'G-E8TRLLMVWW',
+  anonymizeIP: true,
+},
 
       navbar: {
         hideOnScroll: false,
