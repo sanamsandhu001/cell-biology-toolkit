@@ -13,7 +13,7 @@ const config = {
 
   // GitHub Pages configuration
   url: 'https://cellbiokit.com',
-baseUrl: '/',
+  baseUrl: '/',
 
   organizationName: 'sanamsandhu001',
   projectName: 'cell-biology-toolkit',
@@ -42,10 +42,15 @@ baseUrl: '/',
             xslt: true,
           },
           editUrl:
-  'https://github.com/sanamsandhu001/cell-biology-toolkit/edit/main/docs/',
+            'https://github.com/sanamsandhu001/cell-biology-toolkit/edit/main/docs/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+        },
+
+        gtag: {
+          trackingID: 'G-E8TRLLMVWW',
+          anonymizeIP: true,
         },
 
         theme: {
@@ -63,10 +68,6 @@ baseUrl: '/',
       colorMode: {
         respectPrefersColorScheme: true,
       },
-      gtag: {
-  trackingID: 'G-E8TRLLMVWW',
-  anonymizeIP: true,
-},
 
       navbar: {
         hideOnScroll: false,
