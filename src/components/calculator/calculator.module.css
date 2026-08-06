@@ -1,0 +1,215 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem 5rem;
+}
+
+.subtitle {
+  text-align: center;
+  color: #64748b;
+  font-size: 1.1rem;
+  margin-bottom: 3rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ---------- Calculator Card ---------- */
+
+.card {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 2rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  border: 1px solid #e2e8f0;
+  margin-bottom: 2rem;
+}
+
+.card label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #1e293b;
+}
+
+/* ---------- Input Groups ---------- */
+
+.inputGroup {
+  margin-bottom: 1.5rem;
+}
+
+.inputWrapper {
+  display: flex;
+  width: 100%;
+}
+
+.inputWrapper input {
+  flex: 1;
+  padding: 0.85rem 1rem;
+  border: 1px solid #cbd5e1;
+  border-right: none;
+  border-radius: 10px 0 0 10px;
+  font-size: 1rem;
+  background: #fff;
+  transition: 0.2s;
+}
+
+.inputWrapper input:focus {
+  outline: none;
+  border-color: #2563eb;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.15);
+  position: relative;
+  z-index: 2;
+}
+
+.unitSelect {
+  width: 90px;
+  border: 1px solid #cbd5e1;
+  border-left: none;
+  border-radius: 0 10px 10px 0;
+  background: #ffffff;
+  font-size: 0.95rem;
+  padding: 0 0.75rem;
+  cursor: pointer;
+}
+
+.unitSelect:focus {
+  outline: none;
+  border-color: #2563eb;
+}
+
+/* ---------- Buttons ---------- */
+
+.buttonRow {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.button,
+.secondaryButton {
+  flex: 1;
+  padding: 1rem;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.button {
+  border: none;
+  background: #2563eb;
+  color: white;
+}
+
+.button:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+.secondaryButton {
+  background: white;
+  border: 1px solid #cbd5e1;
+  color: #334155;
+}
+
+.secondaryButton:hover {
+  background: #f8fafc;
+}
+
+/* ---------- Results ---------- */
+
+.resultCard {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 18px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+.resultCard h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+.resultGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
+.resultBox {
+  background: white;
+  border-radius: 14px;
+  padding: 1.5rem;
+  text-align: center;
+  border: 1px solid #dbeafe;
+}
+
+.resultBox h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  color: #475569;
+}
+
+.resultBox p {
+  margin: 0;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2563eb;
+}
+
+/* ---------- Information Cards ---------- */
+
+.infoCard {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 2rem;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+  margin-bottom: 2rem;
+}
+
+.infoCard h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.infoCard p,
+.infoCard li {
+  line-height: 1.7;
+  color: #475569;
+}
+
+.formula {
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  color: #1d4ed8;
+  margin: 1.5rem 0;
+}
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 768px) {
+
+  .container {
+    padding: 2rem 1rem 3rem;
+  }
+
+  .card,
+  .resultCard,
+  .infoCard {
+    padding: 1.5rem;
+  }
+
+  .buttonRow {
+    flex-direction: column;
+  }
+
+  .resultGrid {
+    grid-template-columns: 1fr;
+  }
+
+}
